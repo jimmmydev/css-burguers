@@ -16,7 +16,7 @@ Dentro del repositorio encontrarás diferentes implementaciones de "burguers", d
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/usuario/burguers-css-html.git](https://github.com/jimmmydev/css-burguers
+   git clone https://github.com/usuario/burguers-css-html.git
    ```
 
 2. Navega al directorio del proyecto:
